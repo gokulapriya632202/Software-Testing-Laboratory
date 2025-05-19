@@ -42,8 +42,8 @@ else:
 
 ### Output:
 
+![STL3](https://github.com/user-attachments/assets/bb93df8e-0d4f-49ad-9595-31082df65cba)
 
-![Uploading STL3.png…]()
 
 
 
